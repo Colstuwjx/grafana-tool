@@ -1,4 +1,5 @@
 #!/bin/bash
+# !! Script is taken from here: https://gist.github.com/crisidev/bd52bdcc7f029be2f295
 
 KEY="REPLACE_ME_WITH_GRAFANA_KEY"
 HOST="http://example.com"
